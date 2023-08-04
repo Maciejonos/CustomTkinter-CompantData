@@ -1,1 +1,1 @@
-# CustomTkinter-CompantData
+# CustomTkinter-CompanyData
